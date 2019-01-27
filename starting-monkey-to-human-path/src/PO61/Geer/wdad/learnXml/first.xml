@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE organization SYSTEM "C:/Users/Кто то там/Desktop/Labs/starting-monkey-to-human-path/src/PO61/Geer/wdad/organization.dtd">
+<organization name="Imagination inc.">
+    <department name="Managers">
+        <employee firstname="Jorge" secondname="Smith">
+            <hiredate>17.03.2012</hiredate>
+            <salary>100000</salary>
+            <jobtitle value="head"/>
+        </employee>
+        <employee firstname="Alex" secondname="Merge">
+            <hiredate>22.07.2013</hiredate>
+            <salary>50000</salary>
+            <jobtitle value="manager"/>
+        </employee>
+    </department>
+    <department name="Workers">
+        <employee firstname="Johny" secondname="Zurich">
+            <hiredate>12.06.2014</hiredate>
+            <salary>12000</salary>
+            <jobtitle value="engineer"/>
+        </employee>
+        <employee firstname="Serge" secondname="Hire">
+            <hiredate>15.02.2018</hiredate>
+            <salary>15000</salary>
+            <jobtitle value="engineer"/>
+        </employee>
+    </department>
+</organization>
