@@ -22,7 +22,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class PreferencesManager implements PreferencesManagerInterface, PreferencesManagerConstants {
-    private static final String PATH = "src/PO62/Gaydidey/wdad/resources/configuration/appconfig.xml";
+    private static final String PATH = "src/PO61/Geer/wdad/resources/configuration/appconfig.xml";
     private static final File FILE = new File(PATH);
 
     private static PreferencesManager ourInstance = new PreferencesManager();
